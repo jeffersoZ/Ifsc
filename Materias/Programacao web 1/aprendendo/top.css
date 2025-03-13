@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(229, 255, 0);
+    border: 1px solid rgb(217, 0, 255);
+  }
+
+img{
+    width: 400px;
+}
+
+.imagem-top{
+    float: right;
+    border: 5px solid rgb(217, 0, 255);
+    width: 400px;
+}
+
+.texto-top{
+    font-size: 15;
+    font-style: italic;
+    font-family: serif;
+    border: 1px solid rgb(217, 0, 255);
+    width: 400px;
+}
+
+.lista-top{
+    border: 1px solid rgb(217, 0, 255);
+    width: 400px;
+}
