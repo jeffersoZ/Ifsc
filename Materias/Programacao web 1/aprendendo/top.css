@@ -1,27 +1,46 @@
 body {
     background-color: rgb(229, 255, 0);
     border: 1px solid rgb(217, 0, 255);
-  }
+}
 
-img{
+img {
     width: 400px;
 }
 
-.imagem-top{
+.imagem-top {
     float: right;
     border: 5px solid rgb(217, 0, 255);
     width: 400px;
 }
 
-.texto-top{
-    font-size: 15;
+.tabela-top {
+    border: 1px solid rgb(217, 0, 255);
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.tabela-top table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tabela-top th, .tabela-top td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.texto-top {
+    font-size: 15px;
     font-style: italic;
     font-family: serif;
     border: 1px solid rgb(217, 0, 255);
     width: 400px;
+    margin: 10px;
 }
 
-.lista-top{
+.lista-top {
     border: 1px solid rgb(217, 0, 255);
     width: 400px;
+    margin: 10px;
 }
